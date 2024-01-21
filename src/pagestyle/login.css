@@ -1,0 +1,22 @@
+.container {
+    height: 100vh;
+    background-color: #030637;
+    padding-inline: 10px;
+    padding-top: 10px;
+}
+
+.logo {
+    color: #F2F597;
+    top: 500px;
+    height: calc(100vh-80px);
+    text-align: left;
+    font-style: italic;
+    margin-left: 20px;
+}
+
+.box {
+    height:80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

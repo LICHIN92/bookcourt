@@ -1,0 +1,54 @@
+.loginbox {
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: min-content;
+    color: #ffffff;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.signupbox {
+    display: flex;
+    flex-direction: column;
+    width: min-content;
+    color: white;
+    padding: 20px;
+    width: 400px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.signupbox input {
+    width: 200px;
+}
+
+i:hover {
+    cursor: pointer;
+    color: red;
+
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+button {
+    height: 30px;
+    font-size: large;
+    background-color: #3C0753;
+    color: white;
+}
+
+.thin {
+    font-weight: 100;
+}
+
+i:visited {
+    color: red;
+}
+small{
+    text-align: center;
+}
